@@ -1,2 +1,3 @@
-# alx-higher_level_programming
-ALX higher level programming 
+# ALX-higher_level_programming
+ALX higher level programming Project
+# More about this project is coming soon...
